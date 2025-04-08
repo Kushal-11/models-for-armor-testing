@@ -40,3 +40,5 @@ pytorch-env/
 
 # Log files
 *.log
+awscliv2.zip
+cifar10.tar.gz
