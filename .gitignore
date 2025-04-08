@@ -16,9 +16,12 @@ __pycache__/
 *.pt
 *.pkl
 *.h5
+model.tar.gz
 
 # CIFAR-10 dataset
 data/
+models/*/data/
+cifar-10-batches-py/
 
 # Images (except specific test images you want to include)
 *.jpg
